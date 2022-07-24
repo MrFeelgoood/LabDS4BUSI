@@ -28,3 +28,10 @@ SOMMARIO:
 
 
 
+Ringrazimenti e ref:
+
+Per modello trasformer adattato da :
+https://github.com/ctxj/Time-Series-Transformer-Pytorch
+
+Per tutorial su time series e nozioni su vari modelli:
+https://github.com/jiwidi/time-series-forecasting-with-python
