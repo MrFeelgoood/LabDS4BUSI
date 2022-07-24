@@ -1,3 +1,0 @@
-Upload notebook in HTML per migliore visualizzazione.
-I marker del notebook sul file esportato in html sono stati convertiti tutti a 1 mentre in realtà dovrebbero rappresentare 7 markdown diversi. 
-Fare rif. a Jupyter NB
