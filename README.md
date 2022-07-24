@@ -1,16 +1,6 @@
 # LabDS4BUSI
 Lab-project - Data Science for Business, Università degli Studi dell'Insubria.  
 
-
-
-Ringrazimenti e ref:
-
-Per modello trasformer adattato da :
-https://github.com/ctxj/Time-Series-Transformer-Pytorch
-
-Per tutorial su time series e nozioni su vari modelli:
-https://github.com/jiwidi/time-series-forecasting-with-python
-
 L'obiettivo del progetto è analizzare l'andamento del mercato del lavoro in Lombardia osservando le attivazioni e cessazioni di contratti durante nell'intervallo temporale intercorrente tra il 2010 e il 2021. L'idea contempla un confronto tra i settori trainanti per l'economia della regione Lombardia con particolare attenzione sul settore della ristorazione.  
   
   
