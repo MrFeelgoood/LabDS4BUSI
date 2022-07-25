@@ -18,7 +18,7 @@ SOMMARIO:
 
 5. - Analisi temporale e preparazione dei dati per l'implementazione di un modello di predittività che consideri andamento del mercato lavorativo su attivazioni e cessazioni  
 
-6. - Applicazione di modelli predittivi (AUTO ARIMA) sulle time series di contratti attivati e cessati  
+6. - Applicazione di modelli predittivi (AUTO ARIMA) sulle time series di contratti attivati e cessati ed esperimenti con vari modelli di forecasting 
 
 7. - Studio del settore relativo alla ristorazione e considerazioni sui risultati di differenti modelli di forecasting
 
