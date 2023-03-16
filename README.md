@@ -1,4 +1,4 @@
-# LabDS4BUSI
+# LabDS4BUSI_Job_market_analysis_Lombardy
 Lab-project - Data Science for Business, Università degli Studi dell'Insubria.  
 
 L'obiettivo del progetto è analizzare l'andamento del mercato del lavoro in Lombardia osservando le attivazioni e cessazioni di contratti durante nell'intervallo temporale intercorrente tra il 2010 e il 2021. L'idea contempla un confronto tra i settori trainanti per l'economia della regione Lombardia con particolare attenzione sul settore della ristorazione.  
